@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+🔭 I am currenty an undergrad student at WSU in Australia. I am studying CyberSecurity, CyberCrime & Behaviour
+
+📡 I am learning through TryHackMe & Hack The Box & Codeacademy
+
+📡 
+
+
+
 <!--
 **chewbyte/chewbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
