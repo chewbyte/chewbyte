@@ -12,7 +12,7 @@
 💻 Current tech
   - Apple 14 inch M1 Pro - 16gb Ram
   - Rpi 4 running Kali
-  - Rpi 2 B+ running PiAware -> https://flightaware.com/adsb/stats/user/stephenneophytou
+  - Rpi 2 B+ running PiAware
 
 💬 Ask me about planes & aircraft. Im an aviation geek
 
