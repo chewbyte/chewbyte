@@ -1,18 +1,12 @@
 ### Hi there 👋
 
-🔭 I am currenty an undergrad student at WSU in Australia. I am studying CyberSecurity, CyberCrime & Behaviour
-
-📡 I am learning through TryHackMe & Hack The Box & Codeacademy
-
 🌱 I want to learn
   - JavaScript
   - Python
   - Cyber Defense & Offense
 
 💻 Current tech
-  - Apple 14 inch M1 Pro - 16gb Ram
-  - Rpi 4 running Kali
-  - Rpi 2 B+ running PiAware
+
 
 💬 Ask me about planes & aircraft. Im an aviation geek
 
